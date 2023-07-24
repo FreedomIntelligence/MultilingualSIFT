@@ -18,13 +18,15 @@
 
 
 ## Citation
-If you find this repository helpful, please cite the paper below.
+If you find this repository helpful, please cite the repository below.
 
 ```angular2
-@article{phoenix-2023,
-  title={Phoenix: Democratizing ChatGPT across Languages},
-  author={Zhihong Chen and Feng Jiang and Junying Chen and Tiannan Wang and Fei Yu and Guiming Chen and Hongbo Zhang and Juhao Liang and Chen Zhang and Zhiyi Zhang and Jianquan Li and Xiang Wan and Benyou Wang and Haizhou Li},
-  journal={arXiv preprint arXiv:2304.10453},
-  year={2023}
+@software{Chen_MultilingualSIFT_Multilingual_Supervised_2023,
+author = {Chen, Zhihong and Yan, Shuo and Liang, Juhao and Jiang, Feng and Wu, Xiangbo and Wang, Benyou},
+month = jul,
+title = {{MultilingualSIFT: Multilingual Supervised Instruction Fine-tuning}},
+url = {https://github.com/FreedomIntelligence/MultilingualSIFT.git},
+version = {0.1},
+year = {2023}
 }
 ```
