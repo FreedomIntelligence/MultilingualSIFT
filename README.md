@@ -16,13 +16,13 @@
 | Indonesian      | [huggingface](https://huggingface.co/datasets/FreedomIntelligence/alpaca-gpt4-indonesian) | [huggingface](https://huggingface.co/datasets/FreedomIntelligence/evol-instruct-indonesian) | [huggingface](https://huggingface.co/datasets/FreedomIntelligence/MMLU_Indonesian) |
 
 
-## Dataset construction process
+## Dataset construction process and usage
 We translate Alpaca-GPT4 and Evol-Instruct from English to languages above.  
 For Alpaca-GPT4, we directly translate the instructions and responses.  
 For Evol-Instruct, we translate the instructions and use GPT-3.5 to generate the responses using the translated instructions.  
-These translated datasets are used in the supervised fine-tuning period to investigate whether multilingual training is beneficial to a specific language in the supervised instruction fine-tuning(SIFT) stage and other factors which may be helpful to the multilingual performance of LLM in SIFT stage.
+We also use GPT-3.5 translate [MMLU dataset](https://github.com/hendrycks/test) to languages above for evaluation. The translated MMLU datasets can be found in [huggingface](https://huggingface.co/FreedomIntelligence).
 
-Besides, we use GPT-3.5 translate [MMLU dataset](https://github.com/hendrycks/test) to languages above for evaluation. The translated MMLU datasets can be found in [huggingface](https://huggingface.co/FreedomIntelligence)
+These translated Alpaca-GPT4 and Evol-Instruct datasets are used in the supervised fine-tuning period to investigate whether multilingual training is beneficial to a specific language in the supervised instruction fine-tuning(SIFT) stage and other factors which may be helpful to the multilingual performance of LLM in SIFT stage.
 
 
 
