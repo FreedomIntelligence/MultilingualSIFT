@@ -1,6 +1,5 @@
 # MultilingualSIFT: Multilingual Supervised Instruction Fine-tuning
 
-
 ## Dataset
 | Target Language | Alpaca-gpt4                                                                               | Evol-instruct                                                                                 |
 |-----------------|-------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
@@ -15,6 +14,12 @@
 | Spanish         | [huggingface](https://huggingface.co/datasets/FreedomIntelligence/alpaca-gpt4-spanish)    | [huggingface](https://huggingface.co/datasets/FreedomIntelligence/evol-instruct-spanish)    |
 | Hindi           | [huggingface](https://huggingface.co/datasets/FreedomIntelligence/alpaca-gpt4-hindi)      | [huggingface](https://huggingface.co/datasets/FreedomIntelligence/evol-instruct-hindi)      |
 | Indonesian      | [huggingface](https://huggingface.co/datasets/FreedomIntelligence/alpaca-gpt4-indonesian) | [huggingface](https://huggingface.co/datasets/FreedomIntelligence/evol-instruct-indonesian) |
+
+We translate Alpaca-GPT4 and Evol-Instruct from English to languages above. For Alpaca-GPT4, we directly translate the instructions and responses; For Evol-Instruct, we translate the instructions and use GPT-3.5 to generate the responses using the translated instructions. These translated datasets are used in the supervised fine-tuning period to investigate whether multilingual training  is beneficial to a specific language in the supervised instruction fine-tuning stage and other factors which may be helpful to the multilingual performance.
+
+Besides, we use GPT-3.5 translate [MMLU dataset](https://github.com/hendrycks/test) to languages above for evaluation. The translated MMLU datasets can be found in [huggingface](https://huggingface.co/FreedomIntelligence)
+
+
 
 
 ## Citation
