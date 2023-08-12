@@ -66,6 +66,18 @@ Now, you can open your browser and chat with a model.
 | Hindi      | [[huggingface]](https://huggingface.co/datasets/FreedomIntelligence/MMLU_Hindi)      |
 | Indonesian | [[huggingface]](https://huggingface.co/datasets/FreedomIntelligence/MMLU_Indonesian) |
 
+### Evaluation
+
+* For MMLU
+```shell
+bash eval/scripts/mmlu.sh ${LANGUAGE} ${MODEL_PATH} ${MODEL_ID}
+```
+
+* For Vicuna-80
+```shell
+bash eval/scripts/vicuna-80.sh ${LANGUAGE} ${MODEL_PATH} ${MODEL_ID}
+```
+
 ## Citation
 
 If you find this repository helpful, please cite the repository below.
