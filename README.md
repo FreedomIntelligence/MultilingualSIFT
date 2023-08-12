@@ -29,6 +29,22 @@ Specify the `train_data_path` and `val_data_path` and then run
 bash scripts/train.sh
 ```
 
+### Deployment
+1. Launch a controller
+```shell
+python -m src.deploy.webapp.controller
+```
+
+2. Launch a model worker
+```shell
+python -m src.deploy.webapp.model_worker --model-path /path/to/weights/
+```
+
+3. Launch a gradio web server
+```shell
+python -m src.deploy.webapp.gradio_web_server
+```
+Now, you can open your browser and chat with a model.
 
 ## 💯 Evaluation Benchmark
 
