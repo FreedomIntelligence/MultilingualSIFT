@@ -33,7 +33,7 @@ We translate Alpaca-GPT4 and Evol-Instruct from English to languages using GPT-3
 
 ### Evaluation Data
 
-* We translate [MMLU](https://github.com/hendrycks/test) and [Vicuna-80]() to languages above for evaluation.
+* We translate [MMLU](https://github.com/hendrycks/test) and [Vicuna-80](https://github.com/lm-sys/FastChat/blob/main/fastchat/llm_judge/data/vicuna_bench/question.jsonl) to languages above for evaluation.
 
 | Language   | MMLU                                                                                     |
 |------------|------------------------------------------------------------------------------------------|
