@@ -16,7 +16,7 @@
 | Hindi           | [huggingface](https://huggingface.co/datasets/FreedomIntelligence/alpaca-gpt4-hindi)      | [huggingface](https://huggingface.co/datasets/FreedomIntelligence/evol-instruct-hindi)      | [huggingface](https://huggingface.co/datasets/FreedomIntelligence/MMLU_Hindi) |
 | Indonesian      | [huggingface](https://huggingface.co/datasets/FreedomIntelligence/alpaca-gpt4-indonesian) | [huggingface](https://huggingface.co/datasets/FreedomIntelligence/evol-instruct-indonesian) | [huggingface](https://huggingface.co/datasets/FreedomIntelligence/MMLU_Indonesian) |
 
-## Data Construction Process
+### Data Construction Process
 We translate Alpaca-GPT4 and Evol-Instruct from English to languages using GPT-3.5 Turbo, where
 * For Alpaca-GPT4, we directly translate the instructions and responses.  
 * For Evol-Instruct, we translate the instructions and use  to generate the responses using the translated instructions.  
