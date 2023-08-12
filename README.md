@@ -1,6 +1,7 @@
 # MultilingualSIFT: Multilingual Supervised Instruction Fine-tuning
 
-## Dataset repository
+## Multilingual Instruction Data
+### Data Summary
 | Target Language | Alpaca-gpt4                                                                               | Evol-instruct             | MMLU                 |
 |-----------------|-------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | Chinese         | [huggingface](https://huggingface.co/datasets/FreedomIntelligence/alpaca-gpt4-chinese)    | [huggingface](https://huggingface.co/datasets/FreedomIntelligence/evol-instruct-chinese) | [huggingface](https://huggingface.co/datasets/FreedomIntelligence/MMLU_Chinese) |
@@ -15,17 +16,13 @@
 | Hindi           | [huggingface](https://huggingface.co/datasets/FreedomIntelligence/alpaca-gpt4-hindi)      | [huggingface](https://huggingface.co/datasets/FreedomIntelligence/evol-instruct-hindi)      | [huggingface](https://huggingface.co/datasets/FreedomIntelligence/MMLU_Hindi) |
 | Indonesian      | [huggingface](https://huggingface.co/datasets/FreedomIntelligence/alpaca-gpt4-indonesian) | [huggingface](https://huggingface.co/datasets/FreedomIntelligence/evol-instruct-indonesian) | [huggingface](https://huggingface.co/datasets/FreedomIntelligence/MMLU_Indonesian) |
 
+## Data Construction Process
+We translate Alpaca-GPT4 and Evol-Instruct from English to languages using GPT-3.5 Turbo, where
+* For Alpaca-GPT4, we directly translate the instructions and responses.  
+* For Evol-Instruct, we translate the instructions and use  to generate the responses using the translated instructions.  
+* We also translate [MMLU dataset](https://github.com/hendrycks/test) to languages above for evaluation.
 
-## Dataset construction process and usage
-We translate Alpaca-GPT4 and Evol-Instruct from English to languages above.  
-For Alpaca-GPT4, we directly translate the instructions and responses.  
-For Evol-Instruct, we translate the instructions and use GPT-3.5 to generate the responses using the translated instructions.  
-We also use GPT-3.5 translate [MMLU dataset](https://github.com/hendrycks/test) to languages above for evaluation.
-
-These translated Alpaca-GPT4 and Evol-Instruct datasets are used in the supervised fine-tuning period to investigate whether multilingual training is beneficial to a specific language in the supervised instruction fine-tuning(SIFT) stage and other factors which may be helpful to the multilingual performance of LLM in SIFT stage.
-
-
-
+These translated Alpaca-GPT4 and Evol-Instruct datasets are used in the supervised fine-tuning period to investigate whether multilingual training is beneficial to a specific language in the supervised instruction fine-tuning(SIFT) stage and other factors which may be helpful to the multilingual performance of LLM in the SIFT stage.
 
 ## Citation
 If you find this repository helpful, please cite the repository below.
