@@ -3,8 +3,10 @@
 This repo aims to provide the data, models, evaluation benchmark for multilingual instruction fine-tuning.
 
 ## 📚 Data
+We translate Alpaca-GPT4 and Evol-Instruct from English to languages using GPT-3.5 Turbo, where
 
-### Data Summary
+* For Alpaca-GPT4, we directly translate the instructions and responses.
+* For Evol-Instruct, we translate the instructions and use to generate the responses using the translated instructions.
 
 | Language   | Alpaca-GPT4                                                                                 | Evol-instruct                                                                                 |
 |------------|---------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
@@ -20,14 +22,13 @@ This repo aims to provide the data, models, evaluation benchmark for multilingua
 | Hindi      | [[huggingface]](https://huggingface.co/datasets/FreedomIntelligence/alpaca-gpt4-hindi)      | [[huggingface]](https://huggingface.co/datasets/FreedomIntelligence/evol-instruct-hindi)      | 
 | Indonesian | [[huggingface]](https://huggingface.co/datasets/FreedomIntelligence/alpaca-gpt4-indonesian) | [[huggingface]](https://huggingface.co/datasets/FreedomIntelligence/evol-instruct-indonesian) | 
 
-### Data Construction Process
-
-We translate Alpaca-GPT4 and Evol-Instruct from English to languages using GPT-3.5 Turbo, where
-
-* For Alpaca-GPT4, we directly translate the instructions and responses.
-* For Evol-Instruct, we translate the instructions and use to generate the responses using the translated instructions.
-
 ## 🤖 Models
+### Training
+Specify the `train_data_path` and `val_data_path` and then run
+```shell
+bash scripts/train.sh
+```
+
 
 ## 💯 Evaluation Benchmark
 
