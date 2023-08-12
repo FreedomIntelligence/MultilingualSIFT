@@ -1,0 +1,80 @@
+{"question_id": 1, "text": "¿Cómo puedo mejorar mis habilidades de gestión del tiempo?", "category": "generic"}
+{"question_id": 2, "text": "¿Cuáles son las formas más efectivas de lidiar con el estrés?", "category": "generic"}
+{"question_id": 3, "text": "¿Cuáles son las principales diferencias entre los lenguajes de programación Python y JavaScript?", "category": "generic"}
+{"question_id": 4, "text": "¿Cómo puedo aumentar mi productividad mientras trabajo desde casa?", "category": "generic"}
+{"question_id": 5, "text": "¿Puede explicar los fundamentos de la computación cuántica?", "category": "generic"}
+{"question_id": 6, "text": "¿Cuáles son las diferencias entre fuentes de proteínas a base de plantas y a base de animales?", "category": "generic"}
+{"question_id": 7, "text": "¿Cómo puedo desarrollar mis habilidades de pensamiento crítico?", "category": "generic"}
+{"question_id": 8, "text": "¿Cuáles son los principales desafíos que enfrenta el sector educativo hoy en día?", "category": "generic"}
+{"question_id": 9, "text": "¿Cuáles son los factores principales que influyen en el comportamiento del consumidor?", "category": "generic"}
+{"question_id": 10, "text": "¿Cuáles son las estrategias más efectivas para la resolución de conflictos en el lugar de trabajo?", "category": "generic"}
+{"question_id": 11, "text": "¿Cuáles son las posibles implicaciones de usar una botella de plástico de un solo uso frente a una botella reutilizable tanto en el medio ambiente como en la salud humana?", "category": "knowledge"}
+{"question_id": 12, "text": "¿Qué factores consideraría al diseñar un sistema de transporte público inclusivo y accesible?", "category": "knowledge"}
+{"question_id": 13, "text": "¿Cómo pueden los gobiernos utilizar políticas fiscales y monetarias para combatir las recesiones económicas?", "category": "knowledge"}
+{"question_id": 14, "text": "¿Cómo afectan las barreras lingüísticas y culturales a la forma en que las personas se comunican y establecen relaciones en sociedades multiculturales?", "category": "knowledge"}
+{"question_id": 15, "text": "Describa un escenario donde la inteligencia artificial puede ser utilizada para mejorar la calidad y eficiencia de la atención médica.", "category": "knowledge"}
+{"question_id": 16, "text": "Explique el proceso de edición de genes utilizando la tecnología CRISPR-Cas9 y discute sus posibles aplicaciones e implicaciones éticas.", "category": "knowledge"}
+{"question_id": 17, "text": "¿Cómo funcionan las vacunas para proteger a individuos y comunidades de enfermedades infecciosas, y qué es la inmunidad colectiva?", "category": "knowledge"}
+{"question_id": 18, "text": "¿Cómo influyen las plataformas de redes sociales en la forma en que las personas consumen y comparten noticias, y cuáles son las posibles implicaciones para la propagación de la desinformación?", "category": "knowledge"}
+{"question_id": 19, "text": "¿Cómo influyen los factores culturales, sociales y económicos en las elecciones alimenticias de las personas, y cómo puede usarse este conocimiento para promover dietas más saludables?", "category": "knowledge"}
+{"question_id": 20, "text": "Explique el proceso de selección natural y cómo contribuye a la evolución y adaptación de las especies.", "category": "knowledge"}
+{"question_id": 21, "text": "¿Cómo te presentarías como un caballero medieval en un banquete real?", "category": "roleplay"}
+{"question_id": 22, "text": "Como capitán pirata, ¿qué les dirías a tu tripulación para motivarlos a buscar un tesoro escondido?", "category": "roleplay"}
+{"question_id": 23, "text": "Si fueras un personaje de Shakespeare, ¿cómo declararías tu amor por alguien en un soliloquio?", "category": "roleplay"}
+{"question_id": 24, "text": "Como superhéroe, ¿cómo explicarías tu historia de origen a un niño curioso?", "category": "roleplay"}
+{"question_id": 25, "text": "Imagina que eres un viajero en el tiempo del año 3000. ¿Qué avances tecnológicos les contarías a la gente?", "category": "roleplay"}
+{"question_id": 26, "text": "Como comentarista deportivo, describe la jugada ganadora en los últimos segundos de un partido de campeonato.", "category": "roleplay"}
+{"question_id": 27, "text": "Finge ser un chef mundialmente famoso. ¿Cómo describirías tu plato estrella a un panel de jueces?", "category": "roleplay"}
+{"question_id": 28, "text": "Eres un alpinista alcanzando la cima del Monte Everest. Describe tus emociones y la vista desde la cima.", "category": "roleplay"}
+{"question_id": 29, "text": "Como colonizador espacial en Marte, describe tu vida diaria y los desafíos que enfrentas viviendo en otro planeta.", "category": "roleplay"}
+{"question_id": 30, "text": "Finge ser un personaje en un mundo postapocalíptico. Describe cómo sobrevives y los aliados que encuentras.", "category": "roleplay"}
+{"question_id": 31, "text": "¿Cómo se puede determinar si un restaurante es popular entre los lugareños o atrae principalmente a turistas, y por qué podría ser útil esta información?", "category": "common-sense"}
+{"question_id": 32, "text": "¿Cuáles son algunas señales sutiles que sugieren que alguien está fingiendo entender un tema o conversación cuando en realidad está confundido o mal informado?", "category": "common-sense"}
+{"question_id": 33, "text": "¿Por qué alguien podría elegir usar un mapa de papel o pedir direcciones en lugar de confiar en un dispositivo GPS o una aplicación para teléfono inteligente?", "category": "common-sense"}
+{"question_id": 34, "text": "¿Cómo puedes determinar si una persona está genuinamente interesada en una conversación o simplemente siendo educada?", "category": "common-sense"}
+{"question_id": 35, "text": "¿Por qué alguien preferiría comprar en un negocio pequeño y local en lugar de en una gran tienda de cadena, incluso si los precios son más altos?", "category": "common-sense"}
+{"question_id": 36, "text": "¿Cómo puede evaluar la credibilidad de una fuente de información, como un artículo de noticias o una publicación en un blog, sin confiar únicamente en la reputación del autor o del editor?", "category": "common-sense"}
+{"question_id": 37, "text": "¿Por qué algunas personas disfrutan de la sensación de tener miedo, como al ver películas de terror o montar en montañas rusas, mientras que otros evitan estas experiencias?", "category": "common-sense"}
+{"question_id": 38, "text": "¿Cómo puede observar el comportamiento de otras personas en una situación social proporcionar pistas sobre normas y expectativas culturales?", "category": "common-sense"}
+{"question_id": 39, "text": "¿Tenemos una obligación moral de explorar el espacio, o deberíamos centrarnos en resolver primero los problemas de la Tierra?", "category": "common-sense"}
+{"question_id": 40, "text": "En un mundo en el que la automatización se está volviendo cada vez más prevalente, ¿es más importante priorizar la creación de empleo o el progreso tecnológico?", "category": "common-sense"}
+{"question_id": 41, "text": "¿Cuántas veces parpadea de media un ser humano en su vida? Trate de explicar su respuesta. Su explicación debe llevar al lector a través de su razonamiento paso a paso.", "category": "fermi"}
+{"question_id": 42, "text": "¿Cuántos átomos hay en un grano de sal? Trata de explicar tu respuesta. Tu explicación debe llevar al lector a través de tu razonamiento paso a paso.", "category": "fermi"}
+{"question_id": 43, "text": "¿Cuántos rayos caen en la Tierra cada día? Trata de explicar tu respuesta. Tu explicación debe llevar al lector a través de tu razonamiento paso a paso.", "category": "fermi"}
+{"question_id": 44, "text": "¿Cuántos globos se necesitarían para levantar una casa como en la película \"Up\"? Intenta explicar tu respuesta. Tu explicación debería llevar al lector a través de tu razonamiento paso a paso.", "category": "fermi"}
+{"question_id": 45, "text": "¿Cuántos mensajes de texto se envían globalmente en un minuto? Trata de explicar tu respuesta. Tu explicación debe llevar al lector a través de tu razonamiento paso a paso.", "category": "fermi"}
+{"question_id": 46, "text": "¿Cuántas palabras se hablan diariamente en la Tierra? Intente explicar su respuesta. Su explicación debe llevar al lector a través de su razonamiento paso a paso.", "category": "fermi"}
+{"question_id": 47, "text": "¿Cuántos copos de nieve caen durante un invierno típico? Trate de explicar su respuesta. Su explicación debe llevar al lector a través de su razonamiento paso a paso.", "category": "fermi"}
+{"question_id": 48, "text": "¿Cuántas páginas hay en todos los libros que se han escrito? Trata de explicar tu respuesta. Tu explicación debe guiar al lector a través de tu razonamiento paso a paso.", "category": "fermi"}
+{"question_id": 49, "text": "¿Cuántas veces ha orbitado la Tierra alrededor del Sol desde el comienzo de la vida? Trate de explicar su respuesta. Su explicación debe llevar al lector a través de su razonamiento paso a paso.", "category": "fermi"}
+{"question_id": 50, "text": "¿Cuántas canciones se han grabado a lo largo de la historia? Trata de explicar tu respuesta. Tu explicación debe llevar al lector a través de tu razonamiento paso a paso.", "category": "fermi"}
+{"question_id": 51, "text": "¿Qué pasaría si Internet hubiera sido inventado durante el período del Renacimiento?", "category": "counterfactual"}
+{"question_id": 52, "text": "¿Qué pasaría si los Aztecas hubieran logrado repeler exitosamente a los conquistadores españoles?", "category": "counterfactual"}
+{"question_id": 53, "text": "¿Qué pasaría si la Peste Negra no hubiera ocurrido en el siglo XIV?", "category": "counterfactual"}
+{"question_id": 54, "text": "¿Qué habría pasado si Isaac Newton se hubiera enfocado en la biología en lugar de la física?", "category": "counterfactual"}
+{"question_id": 55, "text": "¿Qué pasaría si los Beatles nunca hubieran formado una banda?", "category": "counterfactual"}
+{"question_id": 56, "text": "¿Qué hubiera pasado si Alan Turing no hubiera logrado descifrar el código Enigma durante la Segunda Guerra Mundial?", "category": "counterfactual"}
+{"question_id": 57, "text": "¿Y si el Canal de Suez nunca hubiera sido construido?", "category": "counterfactual"}
+{"question_id": 58, "text": "¿Qué pasaría si la civilización Maya nunca hubiera colapsado misteriosamente?", "category": "counterfactual"}
+{"question_id": 59, "text": "¿Qué pasaría si Cristóbal Colón no hubiera descubierto América?", "category": "counterfactual"}
+{"question_id": 60, "text": "¿Qué hubiera pasado si Vincent van Gogh hubiera sido un artista exitoso durante su vida?", "category": "counterfactual"}
+{"question_id": 61, "text": "Desarrolla un programa en C++ que lea un archivo de texto línea por línea y cuente el número de ocurrencias de una palabra específica en el archivo.", "category": "coding"}
+{"question_id": 62, "text": "Implementar una función de Python para encontrar la subsecuencia común más larga de dos cadenas de entrada usando programación dinámica.", "category": "coding"}
+{"question_id": 63, "text": "Implemente una expresión regular en Python para validar una dirección de correo electrónico.", "category": "coding"}
+{"question_id": 64, "text": "Escribe un programa para encontrar el número Fibonacci n-ésimo usando programación dinámica.", "category": "coding"}
+{"question_id": 65, "text": "Implemente un algoritmo de búsqueda binaria para encontrar un elemento específico en un array ordenado.", "category": "coding"}
+{"question_id": 66, "text": "Implementa una estructura de datos de cola utilizando dos pilas en Python.", "category": "coding"}
+{"question_id": 67, "text": "Implemente un programa para encontrar los elementos comunes en dos matrices sin usar estructuras de datos adicionales.", "category": "coding"}
+{"question_id": 68, "text": "Dado que f(x) = 5x^3 - 2x + 3, encuentra el valor de f(2).", "category": "math"}
+{"question_id": 69, "text": "Resuelve para x en la ecuación 3x + 10 = 5(x - 2).", "category": "math"}
+{"question_id": 70, "text": "Si los extremos de un segmento de línea son (2, -2) y (10, 4), ¿cuál es la longitud del segmento?", "category": "math"}
+{"question_id": 71, "text": "¿Puede ayudarme a escribir un correo electrónico formal a un potencial socio de negocios proponiendo una empresa conjunta?", "category": "writing"}
+{"question_id": 72, "text": "¿Puedes ayudarme a escribir una carta de renuncia a mi empleador actual, dejando en buenos términos y expresando gratitud por las oportunidades brindadas?", "category": "writing"}
+{"question_id": 73, "text": "Utilice un formato adecuado para estructurar una carta formal de recomendación para un estudiante que solicita un prestigioso programa de posgrado en informática.", "category": "writing"}
+{"question_id": 74, "text": "Escriba un correo electrónico emocionante de anuncio de lanzamiento del producto para informar a nuestros clientes de nuestra nueva solución de software.", "category": "writing"}
+{"question_id": 75, "text": "Redacta un correo electrónico de disculpa a un cliente que experimentó un retraso en su pedido y asegura que el problema ha sido resuelto.", "category": "writing"}
+{"question_id": 76, "text": "Escribe un guion para un video de YouTube que explore la historia y el significado cultural del jazz.", "category": "writing"}
+{"question_id": 77, "text": "Redacte una entrada de blog de viajes atractiva sobre un reciente viaje a Hawaii, destacando las experiencias culturales y las atracciones imprescindibles.", "category": "writing"}
+{"question_id": 78, "text": "Escriba una cautivadora reseña de una película de ciencia ficción recién estrenada, discutiendo su trama, personajes y efectos especiales.", "category": "writing"}
+{"question_id": 79, "text": "¿Cómo estructurar un guion para un episodio de podcast que discuta la influencia de las plataformas de streaming en la industria musical?", "category": "writing"}
+{"question_id": 80, "text": "Escriba una crítica de concierto sinfónico, discutiendo la interpretación de la orquesta y la experiencia general del público.", "category": "writing"}
