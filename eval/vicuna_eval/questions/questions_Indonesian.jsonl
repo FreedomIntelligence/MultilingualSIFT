@@ -1,400 +1,80 @@
-{
-  "question_id": 1,
-  "text": "Bagaimana cara meningkatkan keterampilan manajemen waktu saya?",
-  "category": "generic"
-}
-{
-  "question_id": 2,
-  "text": "Apa cara yang paling efektif untuk mengatasi stres?",
-  "category": "generic"
-}
-{
-  "question_id": 3,
-  "text": "Apa perbedaan utama antara bahasa pemrograman Python dan JavaScript?",
-  "category": "generic"
-}
-{
-  "question_id": 4,
-  "text": "Bagaimana cara meningkatkan produktivitas saya saat bekerja dari rumah?",
-  "category": "generic"
-}
-{
-  "question_id": 5,
-  "text": "Bisakah Anda menjelaskan dasar-dasar komputasi kuantum?",
-  "category": "generic"
-}
-{
-  "question_id": 6,
-  "text": "Apa perbedaan antara sumber protein berbasis tanaman dan hewan?",
-  "category": "generic"
-}
-{
-  "question_id": 7,
-  "text": "Bagaimana saya bisa mengembangkan keterampilan berpikir kritis saya?",
-  "category": "generic"
-}
-{
-  "question_id": 8,
-  "text": "Apa saja tantangan utama yang dihadapi sektor pendidikan saat ini?",
-  "category": "generic"
-}
-{
-  "question_id": 9,
-  "text": "Apa faktor-faktor utama yang mempengaruhi perilaku konsumen?",
-  "category": "generic"
-}
-{
-  "question_id": 10,
-  "text": "Apa strategi yang paling efektif untuk penyelesaian konflik di tempat kerja?",
-  "category": "generic"
-}
-{
-  "question_id": 11,
-  "text": "Apa beberapa implikasi potensial dari penggunaan botol plastik sekali pakai versus botol yang dapat digunakan kembali terhadap lingkungan dan kesehatan manusia?",
-  "category": "knowledge"
-}
-{
-  "question_id": 12,
-  "text": "Faktor-faktor apa yang akan kamu pertimbangkan saat merancang sistem transportasi umum yang inklusif dan dapat diakses?",
-  "category": "knowledge"
-}
-{
-  "question_id": 13,
-  "text": "Bagaimana pemerintah dapat memanfaatkan kebijakan fiskal dan moneter untuk mengatasi resesi ekonomi?",
-  "category": "knowledge"
-}
-{
-  "question_id": 14,
-  "text": "Bagaimana hambatan bahasa dan budaya mempengaruhi cara orang berkomunikasi dan membentuk hubungan di masyarakat multikultural?",
-  "category": "knowledge"
-}
-{
-  "question_id": 15,
-  "text": "Deskripsikan sebuah skenario di mana kecerdasan buatan dapat digunakan untuk meningkatkan kualitas dan efisiensi pengiriman perawatan kesehatan.",
-  "category": "knowledge"
-}
-{
-  "question_id": 16,
-  "text": "Jelaskan proses pengeditan gen menggunakan teknologi CRISPR-Cas9, dan bahas potensi aplikasinya dan implikasi etika.",
-  "category": "knowledge"
-}
-{
-  "question_id": 17,
-  "text": "Bagaimana vaksin bekerja untuk melindungi individu dan komunitas dari penyakit menular, dan apa itu kekebalan kelompok?",
-  "category": "knowledge"
-}
-{
-  "question_id": 18,
-  "text": "Bagaimana platform media sosial mempengaruhi cara orang mengonsumsi dan berbagi berita, dan apa implikasi potensial untuk penyebaran informasi yang salah?",
-  "category": "knowledge"
-}
-{
-  "question_id": 19,
-  "text": "Bagaimana faktor-faktor budaya, sosial, dan ekonomi memengaruhi pilihan makanan orang, dan bagaimana pengetahuan ini dapat digunakan untuk mempromosikan pola makan yang lebih sehat?",
-  "category": "knowledge"
-}
-{
-  "question_id": 20,
-  "text": "Jelaskan proses seleksi alam dan bagaimana kontribusinya terhadap evolusi dan adaptasi spesies.",
-  "category": "knowledge"
-}
-{
-  "question_id": 21,
-  "text": "Bagaimana Anda akan memperkenalkan diri sebagai ksatria Abad Pertengahan di sebuah hajatan kerajaan?",
-  "category": "roleplay"
-}
-{
-  "question_id": 22,
-  "text": "Sebagai kapten bajak laut, apa yang akan Anda katakan kepada kru untuk memotivasi mereka untuk mencari harta karun tersembunyi?",
-  "category": "roleplay"
-}
-{
-  "question_id": 23,
-  "text": "Jika Anda menjadi karakter Shakespeare, bagaimana Anda akan menyatakan cinta Anda pada seseorang dalam soliloquy?",
-  "category": "roleplay"
-}
-{
-  "question_id": 24,
-  "text": "Sebagai seorang superhero, bagaimana Anda menjelaskan kisah asal-usul Anda kepada anak yang penasaran?",
-  "category": "roleplay"
-}
-{
-  "question_id": 25,
-  "text": "Bayangkan Anda adalah seorang pelancong waktu dari tahun 3000. Kemajuan teknologi apa yang akan Anda beritahu orang?",
-  "category": "roleplay"
-}
-{
-  "question_id": 26,
-  "text": "Sebagai komentator olahraga, deskripsikan permainan terakhir yang berhasil memenangkan kejuaraan.",
-  "category": "roleplay"
-}
-{
-  "question_id": 27,
-  "text": "Pura-pura menjadi koki terkenal dunia. Bagaimana Anda akan menggambarkan hidangan andalan Anda kepada panel juri?",
-  "category": "roleplay"
-}
-{
-  "question_id": 28,
-  "text": "Anda seorang pendaki gunung yang mencapai puncak Gunung Everest. Deskripsikan emosi Anda dan pemandangan dari puncak.",
-  "category": "roleplay"
-}
-{
-  "question_id": 29,
-  "text": "Sebagai kolonis ruang di Mars, jelaskan kehidupan sehari-hari dan tantangan yang Anda hadapi dalam hidup di planet lain.",
-  "category": "roleplay"
-}
-{
-  "question_id": 30,
-  "text": "Pura-pura menjadi karakter di dunia pasca-apokaliptik. Deskripsikan bagaimana Anda bertahan hidup dan sekutu yang Anda temui.",
-  "category": "roleplay"
-}
-{
-  "question_id": 31,
-  "text": "Bagaimana cara menentukan apakah restoran populer di kalangan penduduk setempat atau terutama menarik wisatawan, dan mengapa informasi ini mungkin bermanfaat?",
-  "category": "common-sense"
-}
-{
-  "question_id": 32,
-  "text": "Apa beberapa petunjuk halus yang menunjukkan seseorang berpura-pura mengerti topik atau percakapan ketika sebenarnya bingung atau kurang terinformasi?",
-  "category": "common-sense"
-}
-{
-  "question_id": 33,
-  "text": "Mengapa seseorang mungkin memilih menggunakan peta kertas atau bertanya arah daripada mengandalkan perangkat GPS atau aplikasi smartphone?",
-  "category": "common-sense"
-}
-{
-  "question_id": 34,
-  "text": "Bagaimana cara menentukan apakah seseorang benar-benar tertarik dalam percakapan atau hanya bersikap sopan saja?",
-  "category": "common-sense"
-}
-{
-  "question_id": 35,
-  "text": "Mengapa seseorang mungkin lebih suka berbelanja di bisnis kecil yang dimiliki secara lokal daripada di toko rantai besar, meskipun harganya lebih tinggi?",
-  "category": "common-sense"
-}
-{
-  "question_id": 36,
-  "text": "Bagaimana cara menilai kepercayaan sumber informasi, seperti artikel berita atau posting blog, tanpa hanya mengandalkan reputasi penulis atau penerbit?",
-  "category": "common-sense"
-}
-{
-  "question_id": 37,
-  "text": "Mengapa beberapa orang menikmati sensasi ketakutan, seperti menonton film horor atau naik roller coaster, sementara yang lain menghindari pengalaman tersebut?",
-  "category": "common-sense"
-}
-{
-  "question_id": 38,
-  "text": "Bagaimana mengamati perilaku orang lain dalam situasi sosial dapat memberikan petunjuk tentang norma dan harapan budaya?",
-  "category": "common-sense"
-}
-{
-  "question_id": 39,
-  "text": "Apakah kita memiliki kewajiban moral untuk mengeksplorasi luar angkasa, atau seharusnya kita fokus untuk memecahkan masalah Bumi terlebih dahulu?",
-  "category": "common-sense"
-}
-{
-  "question_id": 40,
-  "text": "Di dunia di mana otomatisasi semakin meningkat, apakah lebih penting untuk memprioritaskan penciptaan lapangan kerja atau kemajuan teknologi?",
-  "category": "common-sense"
-}
-{
-  "question_id": 41,
-  "text": "Berapa kali manusia rata-rata mengedipkan mata dalam hidupnya? Cobalah untuk menjelaskan jawaban anda. Penjelasan anda harus membawa pembaca melalui langkah-langkah pemikiran anda dengan rinci.",
-  "category": "fermi"
-}
-{
-  "question_id": 42,
-  "text": "Berapa atom dalam sebutir garam? Coba jelaskan jawabanmu. Penjelasanmu harus membawa pembaca melalui penalaranmu langkah demi langkah.",
-  "category": "fermi"
-}
-{
-  "question_id": 43,
-  "text": "Berapa banyak halilintar yang terjadi di Bumi setiap hari? Coba jelaskan jawabanmu. Penjelasanmu harus membawa pembaca melalui penalaranmu langkah demi langkah.",
-  "category": "fermi"
-}
-{
-  "question_id": 44,
-  "text": "Berapa banyak balon yang dibutuhkan untuk mengangkat rumah seperti di film \"Up\"? Coba jelaskan jawabanmu. Penjelasanmu harus membawa pembaca melalui penalaranmu langkah demi langkah.",
-  "category": "fermi"
-}
-{
-  "question_id": 45,
-  "text": "Berapa banyak pesan teks yang dikirimkan secara global dalam satu menit? Coba untuk menjelaskan jawabanmu. Penjelasanmu harus membawa pembaca melalui pemikiranmu langkah demi langkah.",
-  "category": "fermi"
-}
-{
-  "question_id": 46,
-  "text": "Berapa banyak kata yang diucapkan setiap hari di Bumi? Cobalah jelaskan jawabanmu. Penjelasanmu harus membawa pembaca melalui pemikiranmu langkah demi langkah.",
-  "category": "fermi"
-}
-{
-  "question_id": 47,
-  "text": "Berapa banyak serpihan salju yang jatuh selama musim dingin yang biasa? Cobalah untuk menjelaskan jawaban Anda. Penjelasan Anda harus membawa pembaca melalui pemikiran Anda secara bertahap.",
-  "category": "fermi"
-}
-{
-  "question_id": 48,
-  "text": "Berapa halaman yang ada dalam semua buku yang pernah ditulis? Coba jelaskan jawabanmu. Penjelasanmu harus membawa pembaca melalui alasanmu langkah demi langkah.",
-  "category": "fermi"
-}
-{
-  "question_id": 49,
-  "text": "Berapa kali Bumi berputar mengelilingi Matahari sejak awal kehidupan? Coba jelaskan jawabanmu. Penjelasanmu harus membawa pembaca melalui langkah-langkah pemikiranmu.",
-  "category": "fermi"
-}
-{
-  "question_id": 50,
-  "text": "Berapa banyak lagu yang telah direkam sepanjang sejarah? Berusaha menjelaskan jawabanmu. Penjelasan Anda harus membawa pembaca melalui proses berpikirmu langkah demi langkah.",
-  "category": "fermi"
-}
-{
-  "question_id": 51,
-  "text": "Bagaimana jika Internet telah diciptakan selama periode Renaissance?",
-  "category": "counterfactual"
-}
-{
-  "question_id": 52,
-  "text": "Bagaimana jika Aztec berhasil menghalau penjajah Spanyol?",
-  "category": "counterfactual"
-}
-{
-  "question_id": 53,
-  "text": "Apa jadinya jika Kematian Hitam tidak terjadi pada abad ke-14?",
-  "category": "counterfactual"
-}
-{
-  "question_id": 54,
-  "text": "Bagaimana jika Isaac Newton fokus pada biologi bukan fisika?",
-  "category": "counterfactual"
-}
-{
-  "question_id": 55,
-  "text": "Bagaimana jika The Beatles tidak pernah terbentuk sebagai band?",
-  "category": "counterfactual"
-}
-{
-  "question_id": 56,
-  "text": "Apa jadinya jika Alan Turing tidak berhasil membuka kode Enigma selama Perang Dunia II?",
-  "category": "counterfactual"
-}
-{
-  "question_id": 57,
-  "text": "Apa jadinya jika Terusan Suez tidak pernah dibangun?",
-  "category": "counterfactual"
-}
-{
-  "question_id": 58,
-  "text": "Bagaimana jika peradaban Maya tidak pernah runtuh secara misterius?",
-  "category": "counterfactual"
-}
-{
-  "question_id": 59,
-  "text": "Bagaimana jika Christopher Columbus tidak menemukan Amerika?",
-  "category": "counterfactual"
-}
-{
-  "question_id": 60,
-  "text": "Bagaimana jika Vincent van Gogh menjadi seniman yang sukses selama hidupnya?",
-  "category": "counterfactual"
-}
-{
-  "question_id": 61,
-  "text": "Buat program C++ yang membaca file teks baris per baris dan menghitung jumlah kemunculan kata tertentu dalam file tersebut.",
-  "category": "coding"
-}
-{
-  "question_id": 62,
-  "text": "Implementasikan fungsi Python untuk menemukan subsequence terpanjang dari dua string masukan dengan menggunakan pemrograman dinamis.",
-  "category": "coding"
-}
-{
-  "question_id": 63,
-  "text": "Implementasikan ekspresi reguler di Python untuk memvalidasi alamat email.",
-  "category": "coding"
-}
-{
-  "question_id": 64,
-  "text": "Tulis program untuk menemukan angka Fibonacci ke-n menggunakan programming dinamis.",
-  "category": "coding"
-}
-{
-  "question_id": 65,
-  "text": "Implementasikan algoritma pencarian biner untuk menemukan elemen khusus dalam array yang diurutkan.",
-  "category": "coding"
-}
-{
-  "question_id": 66,
-  "text": "Implementasikan struktur data antrian menggunakan dua tumpukan di Python.",
-  "category": "coding"
-}
-{
-  "question_id": 67,
-  "text": "Implementasikan program untuk menemukan elemen yang umum di dua array tanpa menggunakan struktur data tambahan.",
-  "category": "coding"
-}
-{
-  "question_id": 68,
-  "text": "Diketahui bahwa f(x) = 5x^3 - 2x + 3, temukan nilai f(2).",
-  "category": "math"
-}
-{
-  "question_id": 69,
-  "text": "Selesaikan untuk x dalam persamaan 3x + 10 = 5(x - 2).",
-  "category": "math"
-}
-{
-  "question_id": 70,
-  "text": "Jika ujung-ujung segmen garis adalah (2, -2) dan (10, 4), berapa panjang segmen?",
-  "category": "math"
-}
-{
-  "question_id": 71,
-  "text": "Bisakah Anda membantu saya menulis email resmi ke calon mitra bisnis yang mengusulkan usaha patungan?",
-  "category": "writing"
-}
-{
-  "question_id": 72,
-  "text": "Dapatkah Anda membantu saya menulis surat pengunduran diri kepada pemberi kerja saya saat ini, sambil berpisah dengan baik dan mengekspresikan rasa terima kasih atas kesempatan yang diberikan?",
-  "category": "writing"
-}
-{
-  "question_id": 73,
-  "text": "Gunakan format yang tepat untuk mengatur surat rekomendasi resmi untuk seorang mahasiswa yang sedang melamar program sarjana terkenal di bidang ilmu komputer.",
-  "category": "writing"
-}
-{
-  "question_id": 74,
-  "text": "Tuliskan email pengumuman peluncuran produk yang memikat untuk memberi tahu pelanggan kami tentang solusi perangkat lunak baru kami.",
-  "category": "writing"
-}
-{
-  "question_id": 75,
-  "text": "Tulis email permintaan maaf kepada pelanggan yang mengalami keterlambatan dalam pesanannya, dan memberikan jaminan bahwa masalah telah diatasi.",
-  "category": "writing"
-}
-{
-  "question_id": 76,
-  "text": "Tulis skrip untuk video YouTube yang menjelajahi sejarah dan signifikansi budaya jazz.",
-  "category": "writing"
-}
-{
-  "question_id": 77,
-  "text": "Tulis sebuah posting blog perjalanan yang menarik tentang perjalanan baru-baru ini ke Hawaii, dengan menyoroti pengalaman budaya dan tempat wisata yang wajib dikunjungi.",
-  "category": "writing"
-}
-{
-  "question_id": 78,
-  "text": "Tulis review film yang menarik untuk film fiksi ilmiah yang baru saja dirilis, membahas plot, karakter, dan efek khususnya.",
-  "category": "writing"
-}
-{
-  "question_id": 79,
-  "text": "Bagaimana struktur skrip podcast untuk episode yang membahas pengaruh platform penyiaran pada industri musik?",
-  "category": "writing"
-}
-{
-  "question_id": 80,
-  "text": "Tulis ulasan konser simfoni, membahas pertunjukan orkestra dan pengalaman keseluruhan penonton.",
-  "category": "writing"
-}
+{"question_id": 1, "text": "Bagaimana cara meningkatkan keterampilan manajemen waktu saya?", "category": "generic"}
+{"question_id": 2, "text": "Apa cara yang paling efektif untuk mengatasi stres?", "category": "generic"}
+{"question_id": 3, "text": "Apa perbedaan utama antara bahasa pemrograman Python dan JavaScript?", "category": "generic"}
+{"question_id": 4, "text": "Bagaimana cara meningkatkan produktivitas saya saat bekerja dari rumah?", "category": "generic"}
+{"question_id": 5, "text": "Bisakah Anda menjelaskan dasar-dasar komputasi kuantum?", "category": "generic"}
+{"question_id": 6, "text": "Apa perbedaan antara sumber protein berbasis tanaman dan hewan?", "category": "generic"}
+{"question_id": 7, "text": "Bagaimana saya bisa mengembangkan keterampilan berpikir kritis saya?", "category": "generic"}
+{"question_id": 8, "text": "Apa saja tantangan utama yang dihadapi sektor pendidikan saat ini?", "category": "generic"}
+{"question_id": 9, "text": "Apa faktor-faktor utama yang mempengaruhi perilaku konsumen?", "category": "generic"}
+{"question_id": 10, "text": "Apa strategi yang paling efektif untuk penyelesaian konflik di tempat kerja?", "category": "generic"}
+{"question_id": 11, "text": "Apa beberapa implikasi potensial dari penggunaan botol plastik sekali pakai versus botol yang dapat digunakan kembali terhadap lingkungan dan kesehatan manusia?", "category": "knowledge"}
+{"question_id": 12, "text": "Faktor-faktor apa yang akan kamu pertimbangkan saat merancang sistem transportasi umum yang inklusif dan dapat diakses?", "category": "knowledge"}
+{"question_id": 13, "text": "Bagaimana pemerintah dapat memanfaatkan kebijakan fiskal dan moneter untuk mengatasi resesi ekonomi?", "category": "knowledge"}
+{"question_id": 14, "text": "Bagaimana hambatan bahasa dan budaya mempengaruhi cara orang berkomunikasi dan membentuk hubungan di masyarakat multikultural?", "category": "knowledge"}
+{"question_id": 15, "text": "Deskripsikan sebuah skenario di mana kecerdasan buatan dapat digunakan untuk meningkatkan kualitas dan efisiensi pengiriman perawatan kesehatan.", "category": "knowledge"}
+{"question_id": 16, "text": "Jelaskan proses pengeditan gen menggunakan teknologi CRISPR-Cas9, dan bahas potensi aplikasinya dan implikasi etika.", "category": "knowledge"}
+{"question_id": 17, "text": "Bagaimana vaksin bekerja untuk melindungi individu dan komunitas dari penyakit menular, dan apa itu kekebalan kelompok?", "category": "knowledge"}
+{"question_id": 18, "text": "Bagaimana platform media sosial mempengaruhi cara orang mengonsumsi dan berbagi berita, dan apa implikasi potensial untuk penyebaran informasi yang salah?", "category": "knowledge"}
+{"question_id": 19, "text": "Bagaimana faktor-faktor budaya, sosial, dan ekonomi memengaruhi pilihan makanan orang, dan bagaimana pengetahuan ini dapat digunakan untuk mempromosikan pola makan yang lebih sehat?", "category": "knowledge"}
+{"question_id": 20, "text": "Jelaskan proses seleksi alam dan bagaimana kontribusinya terhadap evolusi dan adaptasi spesies.", "category": "knowledge"}
+{"question_id": 21, "text": "Bagaimana Anda akan memperkenalkan diri sebagai ksatria Abad Pertengahan di sebuah hajatan kerajaan?", "category": "roleplay"}
+{"question_id": 22, "text": "Sebagai kapten bajak laut, apa yang akan Anda katakan kepada kru untuk memotivasi mereka untuk mencari harta karun tersembunyi?", "category": "roleplay"}
+{"question_id": 23, "text": "Jika Anda menjadi karakter Shakespeare, bagaimana Anda akan menyatakan cinta Anda pada seseorang dalam soliloquy?", "category": "roleplay"}
+{"question_id": 24, "text": "Sebagai seorang superhero, bagaimana Anda menjelaskan kisah asal-usul Anda kepada anak yang penasaran?", "category": "roleplay"}
+{"question_id": 25, "text": "Bayangkan Anda adalah seorang pelancong waktu dari tahun 3000. Kemajuan teknologi apa yang akan Anda beritahu orang?", "category": "roleplay"}
+{"question_id": 26, "text": "Sebagai komentator olahraga, deskripsikan permainan terakhir yang berhasil memenangkan kejuaraan.", "category": "roleplay"}
+{"question_id": 27, "text": "Pura-pura menjadi koki terkenal dunia. Bagaimana Anda akan menggambarkan hidangan andalan Anda kepada panel juri?", "category": "roleplay"}
+{"question_id": 28, "text": "Anda seorang pendaki gunung yang mencapai puncak Gunung Everest. Deskripsikan emosi Anda dan pemandangan dari puncak.", "category": "roleplay"}
+{"question_id": 29, "text": "Sebagai kolonis ruang di Mars, jelaskan kehidupan sehari-hari dan tantangan yang Anda hadapi dalam hidup di planet lain.", "category": "roleplay"}
+{"question_id": 30, "text": "Pura-pura menjadi karakter di dunia pasca-apokaliptik. Deskripsikan bagaimana Anda bertahan hidup dan sekutu yang Anda temui.", "category": "roleplay"}
+{"question_id": 31, "text": "Bagaimana cara menentukan apakah restoran populer di kalangan penduduk setempat atau terutama menarik wisatawan, dan mengapa informasi ini mungkin bermanfaat?", "category": "common-sense"}
+{"question_id": 32, "text": "Apa beberapa petunjuk halus yang menunjukkan seseorang berpura-pura mengerti topik atau percakapan ketika sebenarnya bingung atau kurang terinformasi?", "category": "common-sense"}
+{"question_id": 33, "text": "Mengapa seseorang mungkin memilih menggunakan peta kertas atau bertanya arah daripada mengandalkan perangkat GPS atau aplikasi smartphone?", "category": "common-sense"}
+{"question_id": 34, "text": "Bagaimana cara menentukan apakah seseorang benar-benar tertarik dalam percakapan atau hanya bersikap sopan saja?", "category": "common-sense"}
+{"question_id": 35, "text": "Mengapa seseorang mungkin lebih suka berbelanja di bisnis kecil yang dimiliki secara lokal daripada di toko rantai besar, meskipun harganya lebih tinggi?", "category": "common-sense"}
+{"question_id": 36, "text": "Bagaimana cara menilai kepercayaan sumber informasi, seperti artikel berita atau posting blog, tanpa hanya mengandalkan reputasi penulis atau penerbit?", "category": "common-sense"}
+{"question_id": 37, "text": "Mengapa beberapa orang menikmati sensasi ketakutan, seperti menonton film horor atau naik roller coaster, sementara yang lain menghindari pengalaman tersebut?", "category": "common-sense"}
+{"question_id": 38, "text": "Bagaimana mengamati perilaku orang lain dalam situasi sosial dapat memberikan petunjuk tentang norma dan harapan budaya?", "category": "common-sense"}
+{"question_id": 39, "text": "Apakah kita memiliki kewajiban moral untuk mengeksplorasi luar angkasa, atau seharusnya kita fokus untuk memecahkan masalah Bumi terlebih dahulu?", "category": "common-sense"}
+{"question_id": 40, "text": "Di dunia di mana otomatisasi semakin meningkat, apakah lebih penting untuk memprioritaskan penciptaan lapangan kerja atau kemajuan teknologi?", "category": "common-sense"}
+{"question_id": 41, "text": "Berapa kali manusia rata-rata mengedipkan mata dalam hidupnya? Cobalah untuk menjelaskan jawaban anda. Penjelasan anda harus membawa pembaca melalui langkah-langkah pemikiran anda dengan rinci.", "category": "fermi"}
+{"question_id": 42, "text": "Berapa atom dalam sebutir garam? Coba jelaskan jawabanmu. Penjelasanmu harus membawa pembaca melalui penalaranmu langkah demi langkah.", "category": "fermi"}
+{"question_id": 43, "text": "Berapa banyak halilintar yang terjadi di Bumi setiap hari? Coba jelaskan jawabanmu. Penjelasanmu harus membawa pembaca melalui penalaranmu langkah demi langkah.", "category": "fermi"}
+{"question_id": 44, "text": "Berapa banyak balon yang dibutuhkan untuk mengangkat rumah seperti di film \"Up\"? Coba jelaskan jawabanmu. Penjelasanmu harus membawa pembaca melalui penalaranmu langkah demi langkah.", "category": "fermi"}
+{"question_id": 45, "text": "Berapa banyak pesan teks yang dikirimkan secara global dalam satu menit? Coba untuk menjelaskan jawabanmu. Penjelasanmu harus membawa pembaca melalui pemikiranmu langkah demi langkah.", "category": "fermi"}
+{"question_id": 46, "text": "Berapa banyak kata yang diucapkan setiap hari di Bumi? Cobalah jelaskan jawabanmu. Penjelasanmu harus membawa pembaca melalui pemikiranmu langkah demi langkah.", "category": "fermi"}
+{"question_id": 47, "text": "Berapa banyak serpihan salju yang jatuh selama musim dingin yang biasa? Cobalah untuk menjelaskan jawaban Anda. Penjelasan Anda harus membawa pembaca melalui pemikiran Anda secara bertahap.", "category": "fermi"}
+{"question_id": 48, "text": "Berapa halaman yang ada dalam semua buku yang pernah ditulis? Coba jelaskan jawabanmu. Penjelasanmu harus membawa pembaca melalui alasanmu langkah demi langkah.", "category": "fermi"}
+{"question_id": 49, "text": "Berapa kali Bumi berputar mengelilingi Matahari sejak awal kehidupan? Coba jelaskan jawabanmu. Penjelasanmu harus membawa pembaca melalui langkah-langkah pemikiranmu.", "category": "fermi"}
+{"question_id": 50, "text": "Berapa banyak lagu yang telah direkam sepanjang sejarah? Berusaha menjelaskan jawabanmu. Penjelasan Anda harus membawa pembaca melalui proses berpikirmu langkah demi langkah.", "category": "fermi"}
+{"question_id": 51, "text": "Bagaimana jika Internet telah diciptakan selama periode Renaissance?", "category": "counterfactual"}
+{"question_id": 52, "text": "Bagaimana jika Aztec berhasil menghalau penjajah Spanyol?", "category": "counterfactual"}
+{"question_id": 53, "text": "Apa jadinya jika Kematian Hitam tidak terjadi pada abad ke-14?", "category": "counterfactual"}
+{"question_id": 54, "text": "Bagaimana jika Isaac Newton fokus pada biologi bukan fisika?", "category": "counterfactual"}
+{"question_id": 55, "text": "Bagaimana jika The Beatles tidak pernah terbentuk sebagai band?", "category": "counterfactual"}
+{"question_id": 56, "text": "Apa jadinya jika Alan Turing tidak berhasil membuka kode Enigma selama Perang Dunia II?", "category": "counterfactual"}
+{"question_id": 57, "text": "Apa jadinya jika Terusan Suez tidak pernah dibangun?", "category": "counterfactual"}
+{"question_id": 58, "text": "Bagaimana jika peradaban Maya tidak pernah runtuh secara misterius?", "category": "counterfactual"}
+{"question_id": 59, "text": "Bagaimana jika Christopher Columbus tidak menemukan Amerika?", "category": "counterfactual"}
+{"question_id": 60, "text": "Bagaimana jika Vincent van Gogh menjadi seniman yang sukses selama hidupnya?", "category": "counterfactual"}
+{"question_id": 61, "text": "Buat program C++ yang membaca file teks baris per baris dan menghitung jumlah kemunculan kata tertentu dalam file tersebut.", "category": "coding"}
+{"question_id": 62, "text": "Implementasikan fungsi Python untuk menemukan subsequence terpanjang dari dua string masukan dengan menggunakan pemrograman dinamis.", "category": "coding"}
+{"question_id": 63, "text": "Implementasikan ekspresi reguler di Python untuk memvalidasi alamat email.", "category": "coding"}
+{"question_id": 64, "text": "Tulis program untuk menemukan angka Fibonacci ke-n menggunakan programming dinamis.", "category": "coding"}
+{"question_id": 65, "text": "Implementasikan algoritma pencarian biner untuk menemukan elemen khusus dalam array yang diurutkan.", "category": "coding"}
+{"question_id": 66, "text": "Implementasikan struktur data antrian menggunakan dua tumpukan di Python.", "category": "coding"}
+{"question_id": 67, "text": "Implementasikan program untuk menemukan elemen yang umum di dua array tanpa menggunakan struktur data tambahan.", "category": "coding"}
+{"question_id": 68, "text": "Diketahui bahwa f(x) = 5x^3 - 2x + 3, temukan nilai f(2).", "category": "math"}
+{"question_id": 69, "text": "Selesaikan untuk x dalam persamaan 3x + 10 = 5(x - 2).", "category": "math"}
+{"question_id": 70, "text": "Jika ujung-ujung segmen garis adalah (2, -2) dan (10, 4), berapa panjang segmen?", "category": "math"}
+{"question_id": 71, "text": "Bisakah Anda membantu saya menulis email resmi ke calon mitra bisnis yang mengusulkan usaha patungan?", "category": "writing"}
+{"question_id": 72, "text": "Dapatkah Anda membantu saya menulis surat pengunduran diri kepada pemberi kerja saya saat ini, sambil berpisah dengan baik dan mengekspresikan rasa terima kasih atas kesempatan yang diberikan?", "category": "writing"}
+{"question_id": 73, "text": "Gunakan format yang tepat untuk mengatur surat rekomendasi resmi untuk seorang mahasiswa yang sedang melamar program sarjana terkenal di bidang ilmu komputer.", "category": "writing"}
+{"question_id": 74, "text": "Tuliskan email pengumuman peluncuran produk yang memikat untuk memberi tahu pelanggan kami tentang solusi perangkat lunak baru kami.", "category": "writing"}
+{"question_id": 75, "text": "Tulis email permintaan maaf kepada pelanggan yang mengalami keterlambatan dalam pesanannya, dan memberikan jaminan bahwa masalah telah diatasi.", "category": "writing"}
+{"question_id": 76, "text": "Tulis skrip untuk video YouTube yang menjelajahi sejarah dan signifikansi budaya jazz.", "category": "writing"}
+{"question_id": 77, "text": "Tulis sebuah posting blog perjalanan yang menarik tentang perjalanan baru-baru ini ke Hawaii, dengan menyoroti pengalaman budaya dan tempat wisata yang wajib dikunjungi.", "category": "writing"}
+{"question_id": 78, "text": "Tulis review film yang menarik untuk film fiksi ilmiah yang baru saja dirilis, membahas plot, karakter, dan efek khususnya.", "category": "writing"}
+{"question_id": 79, "text": "Bagaimana struktur skrip podcast untuk episode yang membahas pengaruh platform penyiaran pada industri musik?", "category": "writing"}
+{"question_id": 80, "text": "Tulis ulasan konser simfoni, membahas pertunjukan orkestra dan pengalaman keseluruhan penonton.", "category": "writing"}

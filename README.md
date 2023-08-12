@@ -70,12 +70,12 @@ Now, you can open your browser and chat with a model.
 
 * For MMLU
 ```shell
-bash eval/scripts/mmlu.sh ${LANGUAGE} ${MODEL_PATH} ${MODEL_ID}
+bash scripts/eval_mmlu.sh ${LANGUAGE} ${MODEL_PATH} ${MODEL_ID}
 ```
 
 * For Vicuna-80
 ```shell
-bash eval/scripts/vicuna-80.sh ${LANGUAGE} ${MODEL_PATH} ${MODEL_ID}
+bash scripts/eval_vicuna-80.sh ${LANGUAGE} ${MODEL_PATH} ${MODEL_ID}
 ```
 
 ## Citation
