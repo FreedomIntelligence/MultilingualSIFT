@@ -5,17 +5,16 @@ It sends worker addresses to clients.
 import argparse
 import dataclasses
 import json
+import numpy as np
 import os
+import requests
 import threading
 import time
-from enum import Enum, auto
-from typing import List
-
-import numpy as np
-import requests
 import uvicorn
+from enum import Enum, auto
 from fastapi import FastAPI, Request
 from fastapi.responses import StreamingResponse
+from typing import List
 
 from src.deploy.webapp.constants import CONTROLLER_HEART_BEAT_EXPIRATION, LOGDIR
 from src.deploy.webapp.utils import build_logger, server_error_msg

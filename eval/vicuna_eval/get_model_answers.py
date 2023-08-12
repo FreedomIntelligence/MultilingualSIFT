@@ -2,7 +2,6 @@ import argparse
 import copy
 import json
 import os
-
 import ray
 import shortuuid
 import torch

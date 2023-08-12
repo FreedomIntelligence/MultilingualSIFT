@@ -2,9 +2,8 @@ import json
 import logging
 import logging.handlers
 import os
-import sys
-
 import requests
+import sys
 import torch
 
 from src.deploy.webapp.constants import LOGDIR

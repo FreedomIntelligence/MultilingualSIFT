@@ -2,12 +2,10 @@ import asyncio
 import json
 import os
 import time
-
 import torch
 import tqdm
-from transformers import StoppingCriteria
-
 from eval.dispatch_openai_requests import dispatch_openai_chat_requesets, dispatch_openai_prompt_requesets
+from transformers import StoppingCriteria
 
 
 class KeyWordsCriteria(StoppingCriteria):

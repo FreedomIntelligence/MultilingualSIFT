@@ -1,9 +1,8 @@
 import copy
 import dataclasses
+import transformers
 from enum import auto, Enum
 from typing import List
-
-import transformers
 
 
 def safe_save_model_for_hf_trainer(trainer: transformers.Trainer,

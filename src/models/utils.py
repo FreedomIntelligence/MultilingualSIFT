@@ -1,6 +1,5 @@
-from typing import Dict
-
 import transformers
+from typing import Dict
 
 
 def smart_tokenizer_and_embedding_resize(

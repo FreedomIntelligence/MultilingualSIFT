@@ -1,8 +1,7 @@
 import argparse
 import json
-import os
-
 import numpy as np
+import os
 import pandas as pd
 import torch
 from tqdm import tqdm

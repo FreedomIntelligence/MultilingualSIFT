@@ -4,11 +4,10 @@ A model worker executes the model.
 import argparse
 import asyncio
 import json
+import requests
 import threading
 import time
 import uuid
-
-import requests
 from fastapi import FastAPI, Request, BackgroundTasks
 from fastapi.responses import StreamingResponse
 

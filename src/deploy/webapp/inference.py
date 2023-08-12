@@ -1,7 +1,6 @@
 import abc
-from typing import Optional
-
 import torch
+from typing import Optional
 
 try:
     from transformers import (
@@ -23,7 +22,7 @@ except ImportError:
     )
 
 from auto_gptq import AutoGPTQForCausalLM
-    
+
 from src.utils import get_default_conv_template, SeparatorStyle
 from src.deploy.webapp.compression import compress_module
 from src.deploy.webapp.monkey_patch_non_inplace import replace_llama_attn_with_non_inplace_operations

@@ -1,12 +1,11 @@
 import copy
 import json
 import logging
-from dataclasses import dataclass
-from typing import Dict, Sequence
-
 import torch
 import transformers
+from dataclasses import dataclass
 from torch.utils.data import Dataset
+from typing import Dict, Sequence
 
 from src.constants import IGNORE_INDEX, DEFAULT_BOS_TOKEN, DEFAULT_EOS_TOKEN
 from src.utils import default_conversation

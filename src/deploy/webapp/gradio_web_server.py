@@ -1,12 +1,11 @@
 import argparse
 import datetime
+import gradio as gr
 import json
 import os
+import requests
 import time
 import uuid
-
-import gradio as gr
-import requests
 
 from src.deploy.webapp.constants import LOGDIR
 from src.deploy.webapp.gradio_css import code_highlight_css
