@@ -23,10 +23,13 @@ We translate Alpaca-GPT4 and Evol-Instruct from English to languages using GPT-3
 | Indonesian | [[huggingface]](https://huggingface.co/datasets/FreedomIntelligence/alpaca-gpt4-indonesian) | [[huggingface]](https://huggingface.co/datasets/FreedomIntelligence/evol-instruct-indonesian) | 
 
 ## 🤖 Models
-### Training
-Specify the `train_data_path` and `val_data_path` and then run
-```shell
-bash scripts/train.sh
+### CLI Interation
+```bash
+python -m src.deploy.cli --model-path /path/to/weights/
+```
+For example, you can use the one fine-tuned on eight languages (`English`, `Chinese`, `French`, `Spanish`, `Portuguese`, `Arabic`, `Indonesian`, `Hindi`):
+```bash
+python -m src.deploy.cli --model-path FreedomIntelligence/phoenix-multiple-langs-v1
 ```
 
 ### Deployment
@@ -45,6 +48,12 @@ python -m src.deploy.webapp.model_worker --model-path /path/to/weights/
 python -m src.deploy.webapp.gradio_web_server
 ```
 Now, you can open your browser and chat with a model.
+
+### Training
+Specify the `train_data_path` and `val_data_path` and then run
+```shell
+bash scripts/train.sh
+```
 
 ## 💯 Evaluation Benchmark
 
