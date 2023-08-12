@@ -1,4 +1,4 @@
-# MultilingualSIFT: Multilingual Supervised Instruction Fine-tuning
+# Multilingual Supervised Instruction Fine-tuning
 
 This repo aims to provide the data, models, evaluation benchmark for multilingual instruction fine-tuning.
 
