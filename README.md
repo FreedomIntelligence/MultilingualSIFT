@@ -2,7 +2,7 @@
 
 This repo aims to provide the data, models, evaluation benchmark for multilingual instruction fine-tuning.
 
-## Data
+## 📚 Data
 
 ### Data Summary
 
@@ -27,9 +27,9 @@ We translate Alpaca-GPT4 and Evol-Instruct from English to languages using GPT-3
 * For Alpaca-GPT4, we directly translate the instructions and responses.
 * For Evol-Instruct, we translate the instructions and use to generate the responses using the translated instructions.
 
-## Models
+## 🤖 Models
 
-## Evaluation Benchmark
+## 💯 Evaluation Benchmark
 
 ### Evaluation Data
 
