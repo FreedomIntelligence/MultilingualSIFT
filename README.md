@@ -93,7 +93,7 @@ If you find this repository helpful, please cite the repository below.
 
 ```angular2
 @software{Chen_MultilingualSIFT_Multilingual_Supervised_2023,
-author = {Chen, Zhihong and Yan, Shuo and Liang, Juhao and Jiang, Feng and Wu, Xiangbo and Wang, Benyou},
+author = {Chen, Zhihong and Yan, Shuo and Liang, Juhao and Jiang, Feng and Wu, Xiangbo and Yu, Fei and Chen, Hardy Guiming and Chen, Junying and Zhang, Hongbo and Li Jianquan and Wan Xiang and Wang, Benyou},
 month = jul,
 title = {{MultilingualSIFT: Multilingual Supervised Instruction Fine-tuning}},
 url = {https://github.com/FreedomIntelligence/MultilingualSIFT.git},
