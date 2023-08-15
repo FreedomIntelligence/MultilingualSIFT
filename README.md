@@ -8,19 +8,19 @@ We translate Alpaca-GPT4 and Evol-Instruct from English to languages using GPT-3
 * For Alpaca-GPT4, we directly translate the instructions and responses.
 * For Evol-Instruct, we translate the instructions and use to generate the responses using the translated instructions.
 
-| Language   | Alpaca-GPT4                                                                                 | Evol-instruct                                                                                 |
-|------------|---------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
-| Chinese    | [[huggingface]](https://huggingface.co/datasets/FreedomIntelligence/alpaca-gpt4-chinese)    | [[huggingface]](https://huggingface.co/datasets/FreedomIntelligence/evol-instruct-chinese)    | 
-| Japanese   | [[huggingface]](https://huggingface.co/datasets/FreedomIntelligence/alpaca-gpt4-japanese)   | [[huggingface]](https://huggingface.co/datasets/FreedomIntelligence/evol-instruct-japanese)   | 
-| Korean     | [[huggingface]](https://huggingface.co/datasets/FreedomIntelligence/alpaca-gpt4-korean)     | [[huggingface]](https://huggingface.co/datasets/FreedomIntelligence/evol-instruct-korean)     | 
-| German     | [[huggingface]](https://huggingface.co/datasets/FreedomIntelligence/alpaca-gpt4-deutsch)    | [[huggingface]](https://huggingface.co/datasets/FreedomIntelligence/evol-instruct-deutsch)    | 
-| French     | [[huggingface]](https://huggingface.co/datasets/FreedomIntelligence/alpaca-gpt4-french)     | [[huggingface]](https://huggingface.co/datasets/FreedomIntelligence/evol-instruct-french)     | 
-| Italian    | [[huggingface]](https://huggingface.co/datasets/FreedomIntelligence/alpaca-gpt4-italian)    | [[huggingface]](https://huggingface.co/datasets/FreedomIntelligence/evol-instruct-italian)    | 
-| Arabic     | [[huggingface]](https://huggingface.co/datasets/FreedomIntelligence/alpaca-gpt4-arabic)     | [[huggingface]](https://huggingface.co/datasets/FreedomIntelligence/evol-instruct-arabic)     | 
-| Portuguese | [[huggingface]](https://huggingface.co/datasets/FreedomIntelligence/alpaca-gpt4-portuguese) | [[huggingface]](https://huggingface.co/datasets/FreedomIntelligence/evol-instruct-portuguese) | 
-| Spanish    | [[huggingface]](https://huggingface.co/datasets/FreedomIntelligence/alpaca-gpt4-spanish)    | [[huggingface]](https://huggingface.co/datasets/FreedomIntelligence/evol-instruct-spanish)    | 
-| Hindi      | [[huggingface]](https://huggingface.co/datasets/FreedomIntelligence/alpaca-gpt4-hindi)      | [[huggingface]](https://huggingface.co/datasets/FreedomIntelligence/evol-instruct-hindi)      | 
-| Indonesian | [[huggingface]](https://huggingface.co/datasets/FreedomIntelligence/alpaca-gpt4-indonesian) | [[huggingface]](https://huggingface.co/datasets/FreedomIntelligence/evol-instruct-indonesian) | 
+| Language   | Alpaca-GPT4                                                                                 | Evol-instruct                                                                                 |ShareGPT                                                                                 |
+|------------|---------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
+| Chinese    | [[huggingface]](https://huggingface.co/datasets/FreedomIntelligence/alpaca-gpt4-chinese)    | [[huggingface]](https://huggingface.co/datasets/FreedomIntelligence/evol-instruct-chinese)    |[[huggingface]](https://huggingface.co/datasets/FreedomIntelligence/sharegpt-chinese)|
+| Japanese   | [[huggingface]](https://huggingface.co/datasets/FreedomIntelligence/alpaca-gpt4-japanese)   | [[huggingface]](https://huggingface.co/datasets/FreedomIntelligence/evol-instruct-japanese)   |[[huggingface]](https://huggingface.co/datasets/FreedomIntelligence/sharegpt-japanese)|
+| Korean     | [[huggingface]](https://huggingface.co/datasets/FreedomIntelligence/alpaca-gpt4-korean)     | [[huggingface]](https://huggingface.co/datasets/FreedomIntelligence/evol-instruct-korean)     |[[huggingface]](https://huggingface.co/datasets/FreedomIntelligence/sharegpt-korean)|
+| German     | [[huggingface]](https://huggingface.co/datasets/FreedomIntelligence/alpaca-gpt4-deutsch)    | [[huggingface]](https://huggingface.co/datasets/FreedomIntelligence/evol-instruct-deutsch)    |[[huggingface]](https://huggingface.co/datasets/FreedomIntelligence/sharegpt-deutsch)|
+| French     | [[huggingface]](https://huggingface.co/datasets/FreedomIntelligence/alpaca-gpt4-french)     | [[huggingface]](https://huggingface.co/datasets/FreedomIntelligence/evol-instruct-french)     |[[huggingface]](https://huggingface.co/datasets/FreedomIntelligence/sharegpt-french)|
+| Italian    | [[huggingface]](https://huggingface.co/datasets/FreedomIntelligence/alpaca-gpt4-italian)    | [[huggingface]](https://huggingface.co/datasets/FreedomIntelligence/evol-instruct-italian)    |[[huggingface]](https://huggingface.co/datasets/FreedomIntelligence/sharegpt-italian)| 
+| Arabic     | [[huggingface]](https://huggingface.co/datasets/FreedomIntelligence/alpaca-gpt4-arabic)     | [[huggingface]](https://huggingface.co/datasets/FreedomIntelligence/evol-instruct-arabic)     |[[huggingface]](https://huggingface.co/datasets/FreedomIntelligence/sharegpt-arabic)|
+| Portuguese | [[huggingface]](https://huggingface.co/datasets/FreedomIntelligence/alpaca-gpt4-portuguese) | [[huggingface]](https://huggingface.co/datasets/FreedomIntelligence/evol-instruct-portuguese) |[[huggingface]](https://huggingface.co/datasets/FreedomIntelligence/sharegpt-portuguese)|
+| Spanish    | [[huggingface]](https://huggingface.co/datasets/FreedomIntelligence/alpaca-gpt4-spanish)    | [[huggingface]](https://huggingface.co/datasets/FreedomIntelligence/evol-instruct-spanish)    |[[huggingface]](https://huggingface.co/datasets/FreedomIntelligence/sharegpt-spanish)|
+| Hindi      | [[huggingface]](https://huggingface.co/datasets/FreedomIntelligence/alpaca-gpt4-hindi)      | [[huggingface]](https://huggingface.co/datasets/FreedomIntelligence/evol-instruct-hindi)      |[[huggingface]](https://huggingface.co/datasets/FreedomIntelligence/sharegpt-hindi)|
+| Indonesian | [[huggingface]](https://huggingface.co/datasets/FreedomIntelligence/alpaca-gpt4-indonesian) | [[huggingface]](https://huggingface.co/datasets/FreedomIntelligence/evol-instruct-indonesian) |[[huggingface]](https://huggingface.co/datasets/FreedomIntelligence/sharegpt-indonesian)|
 
 ## 🤖 Models
 ### CLI Interation
@@ -93,7 +93,7 @@ If you find this repository helpful, please cite the repository below.
 
 ```angular2
 @software{Chen_MultilingualSIFT_Multilingual_Supervised_2023,
-author = {Chen, Zhihong and Yan, Shuo and Liang, Juhao and Jiang, Feng and Wu, Xiangbo and Wang, Benyou},
+author = {Chen, Zhihong and Yan, Shuo and Liang, Juhao and Jiang, Feng and Wu, Xiangbo and Yu, Fei and Chen, Guiming Hardy and Chen, Junying and Zhang, Hongbo and Li Jianquan and Wan Xiang and Wang, Benyou},
 month = jul,
 title = {{MultilingualSIFT: Multilingual Supervised Instruction Fine-tuning}},
 url = {https://github.com/FreedomIntelligence/MultilingualSIFT.git},
