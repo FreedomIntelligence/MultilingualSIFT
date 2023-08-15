@@ -7,6 +7,7 @@ We translate Alpaca-GPT4 and Evol-Instruct from English to languages using GPT-3
 
 * For Alpaca-GPT4, we directly translate the instructions and responses.
 * For Evol-Instruct, we translate the instructions and use to generate the responses using the translated instructions.
+* For ShareGPT, we translate the English data from ShareGPT to other languages (Note: Due to the large scale of ShareGPT, we have yet to translate all the data).
 
 | Language   | Alpaca-GPT4                                                                                 | Evol-instruct                                                                                 |ShareGPT                                                                                 |
 |------------|---------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
