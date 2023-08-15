@@ -27,7 +27,7 @@ We translate Alpaca-GPT4 and Evol-Instruct from English to languages using GPT-3
 ```bash
 python -m src.deploy.cli --model-path /path/to/weights/
 ```
-For example, you can use the one fine-tuned on eight languages (`English`, `Chinese`, `French`, `Spanish`, `Portuguese`, `Arabic`, `Indonesian`, `Hindi`):
+For example, you can use [FreedomIntelligence/phoenix-multiple-langs-v1](https://huggingface.co/FreedomIntelligence/phoenix-multiple-langs-v1) fine-tuned on eight languages (`English`, `Chinese`, `French`, `Spanish`, `Portuguese`, `Arabic`, `Indonesian`, `Hindi`):
 ```bash
 python -m src.deploy.cli --model-path FreedomIntelligence/phoenix-multiple-langs-v1
 ```
